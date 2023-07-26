@@ -1,4 +1,24 @@
-### Hi there 👋
+### Welcome 😌
+
+Take a seat 🛋️ grab a drink ☕️ and enjoy some code 👀
+
+### Apps
+
+- [Next.js web app template](https://github.com/Frezzle/template-nextjs) 🏗️
+- [Task tracker CLI](https://github.com/Frezzle/todo) ✔️
+- [Rank your ideas](https://github.com/Frezzle/idearank) 💡
+
+### Games
+
+- [Chess](https://github.com/Frezzle/chess) 🐴
+- [Triple Town clone](https://github.com/Frezzle/triple-town-clone) 🌳 🏠 🏰
+- [TicTacToe web server](https://github.com/Frezzle/noxes) 🅾️ ❌
+- [Tents and Trees solver](https://github.com/Frezzle/tents-and-trees-solver) 🏕️ 🌳
+
+### Other stuff
+
+- [Convert images to ASCII art](https://github.com/Frezzle/image2ascii) 🎨
+- [Cloning the Mac Calculator](https://github.com/Frezzle/mac-calculator-clone) 🔢
 
 <!--
 **Frezzle/frezzle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
