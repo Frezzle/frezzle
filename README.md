@@ -1,6 +1,6 @@
 ### Welcome 😌
 
-Take a seat 🛋️ grab a drink ☕️ and enjoy some code 👀
+Grab a drink ☕️ take a seat 🛋️ and enjoy some code 👀
 
 ### Apps
 
