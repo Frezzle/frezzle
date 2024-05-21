@@ -18,6 +18,7 @@ Grab a drink ☕️ take a seat 🛋️ and enjoy some code 👀
 
 ### Other stuff
 
+- [Crawler for webs and networks](https://github.com/Frezzle/crawler) 🕷🕸
 - [Convert images to ASCII art](https://github.com/Frezzle/image2ascii) 🎨
 - [Cloning the Mac Calculator](https://github.com/Frezzle/mac-calculator-clone) 🔢
 
