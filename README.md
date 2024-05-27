@@ -21,6 +21,7 @@ Grab a drink ☕️ take a seat 🛋️ and enjoy some code 👀
 - [Crawler for webs and networks](https://github.com/Frezzle/crawler) 🕷🕸
 - [Convert images to ASCII art](https://github.com/Frezzle/image2ascii) 🎨
 - [Cloning the Mac Calculator](https://github.com/Frezzle/mac-calculator-clone) 🔢
+- [Playing-cards API](https://github.com/Frezzle/dex) 🃏
 
 <!--
 **Frezzle/frezzle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
