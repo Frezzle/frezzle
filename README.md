@@ -12,7 +12,7 @@ Grab a drink ☕️ take a seat 🛋️ and enjoy some code 👀
 
 - [Chess](https://github.com/Frezzle/chess) 🐴
 - [Sudoku solver](https://github.com/Frezzle/sudoku-solver) 🔢
-- [Triple Town clone](https://github.com/Frezzle/triple-town-clone) 🌳 🏠 🏰
+- [Triple Town clone](https://github.com/Frezzle/triple-town-clone) 🐻 🌳 🏠 🏰
 - [2048 in the terminal](https://github.com/Frezzle/2048) 2️⃣0️⃣4️⃣8️⃣
 - [TicTacToe web server](https://github.com/Frezzle/noxes) 🅾️ ❌
 - [Tents and Trees solver](https://github.com/Frezzle/tents-and-trees-solver) 🏕️ 🌳
